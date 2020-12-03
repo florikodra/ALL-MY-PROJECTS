@@ -1,6 +1,0 @@
-# ALL-MY-PROJECTS
-ALL MY PROJECTS
-
-
-WORDPRESS : 
-<a href="">EJALBUM.COM</a>
