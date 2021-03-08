@@ -8,9 +8,12 @@ WORDPRESS : <br>
 <a href="https://laterrazzadijenny.it/en/" target="_blank">LA Terraza di jenny</a><br>
 <a href="https://shop.coriex.it/" target="_blank">SHOP CORIEX</a><br>
 <a href="https://coriex.it/" target="_blank">CORIEX</a><br>
+<a href="https://certificazioni.coriex.it/" target="_blank">CORIEX Certificazioni</a><br>
 <a href="http://www.clinicaveterinariaarcella.it/" target="_blank">Clinica</a><br>
 <a href="https://www.federicaruggeropsicologa.it/" target="_blank">Federica Ruggero Psicologia</a><br>
 <a href="https://gruppoair.it/" target="_blank">Gruppo Air</a><br>
+
+
 <br><br>
 
 CMS AND API AND OTHER PHP PROJECTS:<br>
